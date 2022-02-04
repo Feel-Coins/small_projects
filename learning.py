@@ -1,3 +1,4 @@
 print("Welcome to the club buddy!")
-print("*slap your butt*")
-say = "I Love gachi!"
+print("*slaps butt*")
+say = "I love gachi!"
+print(say + " But I didn't watch it")
