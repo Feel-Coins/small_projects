@@ -1,4 +1,1 @@
-print("Welcome to the club buddy!")
-print("*slaps butt*")
-say = "I love gachi!"
-print(say + "\nBut I didn't watch it")
+print("Hey buddy, i think you got the wrong door\nThe lether-club is two blocks down")
